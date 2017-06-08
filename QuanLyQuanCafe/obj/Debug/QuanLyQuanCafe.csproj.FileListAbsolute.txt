@@ -1,0 +1,128 @@
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChangePass.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThuNganStaff.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChangePass.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChangePass.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChangePass.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formReportTinhCa.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formRePortNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChangePass.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formRePortNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.formReportTinhCa.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKe.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.fromRePortChiTieu.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormChonNgayCaTruc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FormThucHienDiemDanh.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FORMREPORT.fromRePortDoanhSo.resources

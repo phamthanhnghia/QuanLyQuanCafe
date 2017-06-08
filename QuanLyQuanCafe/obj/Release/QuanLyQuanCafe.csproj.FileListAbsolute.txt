@@ -1,0 +1,147 @@
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fBanAn.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChangePass.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fMonAn.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormChonNgayCaTruc.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formReportTinhCa.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortChiTieu.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortDoanhSo.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormThucHienDiemDanh.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThongKe.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe.licenses
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.cache
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.compiled
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Học tập\Phân tích hệ thống\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fBanAn.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChangePass.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fMonAn.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormChonNgayCaTruc.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortNhanVien.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formReportTinhCa.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortChiTieu.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortDoanhSo.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormThucHienDiemDanh.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThongKe.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe.licenses
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.cache
+C:\Users\DELL\Desktop\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.compiled
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fBanAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChangePass.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormChonNgayCaTruc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortNhanVien.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formReportTinhCa.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortChiTieu.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortDoanhSo.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormThucHienDiemDanh.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThongKe.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe.licenses
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.cache
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.compiled
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormChucVu.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemLoaiMonAn.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemMonAnmoi.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\Xoan\Documents\Visual Studio 2013\Projects\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fMonAn.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fBanAn.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChangePass.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fChiTieu.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fGiaoDien.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKhuVuc.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fKiemKeNguyenLieuTonKho.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fMonAn.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fNguyenLieuKho.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fOderStaff.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormCaTruc.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormChonNgayCaTruc.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormChucVu.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormKiemTraDiemDanh.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortNhanVien.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formRePortThanhToan.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.formReportTinhCa.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortChiTieu.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FORMREPORT.fromRePortDoanhSo.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FormThucHienDiemDanh.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemLoaiMonAn.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemMonAnmoi.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThemNguyenLieuKho.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThongKe.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fThanhToan.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe.licenses
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.cache
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\RdlCompile.compiled
+C:\Users\DELL\Desktop\Học tập\DoAn_PTTKHTTT\QuanLyQuanCafe-PTTK HTTT\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDS_NhapHang.resources
